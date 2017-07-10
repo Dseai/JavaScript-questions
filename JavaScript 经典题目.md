@@ -31,7 +31,7 @@ Array.prototype.slice.call(arguments); 转成数组，当然arguments即使是�
     })(1);
 >答案 ：1
 
-##NO.4
+## NO.4
     var y=1,x=y=typeof x;
     x;
 >答案：”undefined”
